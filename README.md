@@ -14,8 +14,9 @@ Projects that I actively contribute to.
 
 ### Presentations:
 
+* [State of the Federation Subgraph Ecosystem (GraphQL Summit 2022)](https://www.apollographql.com/events/virtual-event/graphql-summit-october-2022/state-of-the-federation-subgraph-ecosystem/)
 * [Bootiful GraphQL with Kotlin (Dariusz Kuc, Guillaume Scheibel)(Spring One 2020)](https://www.youtube.com/watch?v=t9He4vHZC24)
-* [Bootiful GraphQL with Kotlin (Dariusz Kuc)(GOTO Chicago 2020)](https://www.youtube.com/watch?v=1siPT1pTXFU)
+* [Bootiful GraphQL with Kotlin (GOTO Chicago 2020)](https://www.youtube.com/watch?v=1siPT1pTXFU)
 * [Bootiful GraphQL with Kotlin (Dariusz Kuc, Guillaume Scheibel)(KotlinConf 2019)](https://www.youtube.com/watch?v=7YJyPXjLdug&index=25)
 
 <p align="center">
