@@ -9,18 +9,20 @@ Projects that I actively contribute to.
 | Project  | Description |
 | -------- | ----------- |
 | [apollographql/apollo-federation-subgraph-compatibility](https://github.com/apollographql/apollo-federation-subgraph-compatibility) | Repository used to run test against various subgraph implementations verifying their compatibility with Apollo Federation. |
+| [apollographql/federation-subgraph-compatibility](https://github.com/apollographql/federation-subgraph-compatibility) | Github Action to run subgraph compatibility tests against Apollo Federation. |
 | [apollographql/federation-jvm](https://github.com/apollographql/federation-jvm) | Library providing official Apollo Federation support for the `graphql-java` ecosystem. |
 | [ExpediaGroup/graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin) | Collection of libraries that simplify running GraphQL clients and servers in Kotlin. |
 
 ### Presentations:
 
+* [Supercharge your GraphQL with Ktor and GraalVM (KotlinConf 2023)](https://www.youtube.com/watch?v=gqQwTFeHOUU&list=PLlFc5cFwUnmwcJ7ZXyMmS70A9QFyUu1HI)
 * [State of the Federation Subgraph Ecosystem (GraphQL Summit 2022)](https://www.apollographql.com/events/virtual-event/graphql-summit-october-2022/thank-you/state-of-the-federation-subgraph-ecosystem/)
 * [Bootiful GraphQL with Kotlin (Dariusz Kuc, Guillaume Scheibel)(Spring One 2020)](https://www.youtube.com/watch?v=t9He4vHZC24)
 * [Bootiful GraphQL with Kotlin (GOTO Chicago 2020)](https://www.youtube.com/watch?v=1siPT1pTXFU)
 * [Bootiful GraphQL with Kotlin (Dariusz Kuc, Guillaume Scheibel)(KotlinConf 2019)](https://www.youtube.com/watch?v=7YJyPXjLdug&index=25)
 
 <p align="center">
-  <a href="https://twitter.com/darek_kuc"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/derek_kuc"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/dkuc/"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@dariuszkuc"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
