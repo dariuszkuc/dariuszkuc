@@ -17,6 +17,7 @@ Projects that I actively contribute to.
 
 ### Presentations:
 
+* [Efficient Semantic Comparison of GraphQL Queries (GraphQL Conf 2025)](https://www.youtube.com/watch?v=3_se3lJn-0o)
 * [GraphQL Federation - the @key to your platform API strategy (GOTO Chicago 2024)](https://www.youtube.com/watch?v=SrA543HT3bA&list=PLEx5khR4g7PLyzqZrgBcAju-QEInTN77m)
 * [Benefits of Idiomatic Code First GraphQL Development (API Days NYC 2024)](https://www.youtube.com/watch?v=h5EAnwPsqb4)
 * [Supercharge your GraphQL with Ktor and GraalVM (KotlinConf 2023)](https://www.youtube.com/watch?v=gqQwTFeHOUU&list=PLlFc5cFwUnmwcJ7ZXyMmS70A9QFyUu1HI)
